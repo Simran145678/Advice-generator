@@ -11,6 +11,8 @@
 
 <h3>Concepts used:</h3>
 <ol>
+<li>responsive</li>
+<li>accessibility</li>
 <li>useState Hook</li>
 <li>fetch() for API callings</li>
 <li>async/await</li>
